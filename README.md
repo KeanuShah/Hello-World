@@ -1,2 +1,1 @@
-# Hello-World
-This Github repository is used to learn the github flow
+I am what the other people in this world called cool. Yay
